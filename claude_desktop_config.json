@@ -1,0 +1,25 @@
+{
+  "mcpServers": {
+    "google-services": {
+      "command": "python",
+      "args": [
+        "D:\\mcplatestv1\\src\\mcp_server.py"
+      ],
+      "env": {}
+    },
+    "postgresql-db": {
+      "command": "python",
+      "args": [
+        "D:\\mcplatestv1\\src\\postgres_mcp.py"
+      ],
+      "env": {}
+    },
+    "mongodb": {
+      "command": "python",
+      "args": [
+        "D:\\mcplatestv1\\src\\mongodb_mcp.py"
+      ],
+      "env": {}
+    }
+  }
+}

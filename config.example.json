@@ -1,0 +1,10 @@
+{
+    "google": {
+      "clientId": "your-client-id-here",
+      "clientSecret": "your-client-secret-here",
+      "redirectUri": "http://localhost",
+      "spreadsheetId": "13WDTz5SpTA3MZEQOvM240OCOMaXOJmjlj1dHM-Ol-tk",
+      "calendarId": "primary"
+    }
+  }
+  
